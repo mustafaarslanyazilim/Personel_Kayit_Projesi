@@ -29,9 +29,8 @@ Grafik2: Her bir meslek grubunun ortalama maaşı
 Toplam personel sayısı, Evli-Bekar personel sayısı, Toplam şehir sayısı, Toplam maaş, Ortalama maaş. Olarak bir form ekranında gösterimini sağladım.
 
 
--------
-------
----------
+------------------------------------------------
+
 **FORM GİRİŞ EKRANI**
 
 ------------------------------------------------
@@ -39,9 +38,8 @@ Toplam personel sayısı, Evli-Bekar personel sayısı, Toplam şehir sayısı, 
 ![image](https://github.com/mustafaarslanyazilim/Personel_Kayit_Projesi/assets/158520799/964926c0-ddca-4f4e-bbde-abc9886ae753)
 
 
--------
-------
----------
+------------------------------------------------
+
 **FORM PERSONEL SİSTEM EKRANI**
 
 ------------------------------------------------
