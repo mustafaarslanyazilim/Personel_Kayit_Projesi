@@ -8,24 +8,24 @@ Bu projede C# kullanarak Personel Takip Otomasyonu oluşturdum.
 
 ------------------------------------------------ 
 
-**--Admin giriş paneli ile kullanıcı girişi sağlanıyor.
-**--Kullanıcı adı ve şifreler veritabanından çekilerek kontrolleri sağlanıyor.
-**--Personellerin tüm bilgileri veritabanında tutuluyor.
-**--Personellerin bilgileri( Ad,Soyad, Şehir, Maaş, Medeni Durumu, Mesleği)
+**Admin giriş paneli ile kullanıcı girişi sağlanıyor.
+**Kullanıcı adı ve şifreler veritabanından çekilerek kontrolleri sağlanıyor.
+**Personellerin tüm bilgileri veritabanında tutuluyor.
+**Personellerin bilgileri( Ad,Soyad, Şehir, Maaş, Medeni Durumu, Mesleği)
 
-**--Personel **ekle,sil,güncelle,listele butonlarını** da ekleyerek program üzerinden veritabanına entegre olarak güncelleme sistemini kurdum.
+**Personel **ekle,sil,güncelle,listele butonlarını** da ekleyerek program üzerinden veritabanına entegre olarak güncelleme sistemini kurdum.
 
 
 ------------------------------------------------
 
-**--**Grafikler ile de;**
+****Grafikler ile de;**
 Grafik1: Her bir şehirde kaç kişi olduğunu gösteren grafik
 Grafik2: Her bir meslek grubunun ortalama maaşı
 
 
 ------------------------------------------------
 
-****--İstatistikleri de;**
+****İstatistikleri de;**
 Toplam personel sayısı, Evli-Bekar personel sayısı, Toplam şehir sayısı, Toplam maaş, Ortalama maaş. Olarak bir form ekranında gösterimini sağladım.
 
 
