@@ -45,3 +45,12 @@ Toplam personel sayısı, Evli-Bekar personel sayısı, Toplam şehir sayısı, 
 ------------------------------------------------
 
 ![image](https://github.com/mustafaarslanyazilim/Personel_Kayit_Projesi/assets/158520799/8066d9e1-c3a2-4d40-8437-af88783a2a02)
+
+------------------------------------------------
+**VERİTABANI EKRANI**
+
+------------------------------------------------
+
+![image](https://github.com/mustafaarslanyazilim/Personel_Kayit_Projesi/assets/158520799/e2ec3c79-d848-4d21-b8dc-3749c0747328)
+
+
