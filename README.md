@@ -3,7 +3,7 @@
 Bu projede C# kullanarak Personel Takip Otomasyonu oluşturdum. 
 
 ------------------------------------------------
-
+/n
 **PROJEYE GENEL BAKIŞ:**
 **--Admin giriş paneli ile kullanıcı girişi sağlanıyor.
 **--Kullanıcı adı ve şifreler veritabanından çekilerek kontrolleri sağlanıyor.
