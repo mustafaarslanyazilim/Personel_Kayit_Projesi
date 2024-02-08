@@ -33,6 +33,9 @@ Toplam personel sayısı, Evli-Bekar personel sayısı, Toplam şehir sayısı, 
 ------
 ---------
 **FORM GİRİŞ EKRANI**
+
+------------------------------------------------
+
 ![image](https://github.com/mustafaarslanyazilim/Personel_Kayit_Projesi/assets/158520799/964926c0-ddca-4f4e-bbde-abc9886ae753)
 
 
@@ -40,4 +43,7 @@ Toplam personel sayısı, Evli-Bekar personel sayısı, Toplam şehir sayısı, 
 ------
 ---------
 **FORM PERSONEL SİSTEM EKRANI**
+
+------------------------------------------------
+
 ![image](https://github.com/mustafaarslanyazilim/Personel_Kayit_Projesi/assets/158520799/8066d9e1-c3a2-4d40-8437-af88783a2a02)
